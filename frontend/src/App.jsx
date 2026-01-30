@@ -15,7 +15,7 @@ import { Blog, ResumeGuide, FAQ, RecruiterLanding } from './pages/StaticPages';
 import Dashboard from './pages/Dashboard';
 
 import { AuthProvider } from './context/AuthContext';
-
+//  this is change 
 function App() {
   return (
     <AuthProvider>
